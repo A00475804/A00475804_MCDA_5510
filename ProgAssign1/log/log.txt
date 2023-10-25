@@ -1,0 +1,27 @@
+
+ path of file where error occured : CustomerData8.csv
+Exception:  
+   at CsvHelper.Configuration.ConfigurationFunctions.MissingFieldFound(MissingFieldFoundArgs args)
+   at CsvHelper.CsvReader.GetField(Int32 index)
+   at lambda_method12927(Closure )
+   at CsvHelper.Expressions.RecordCreator.Create[T]()
+   at CsvHelper.CsvReader.GetRecord[T]()
+   at ProgAssign1.FileReader.CsvReadWrite(String path, String outputPath, String logFilePath) in C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\FileReader.cs:line 58
+
+ path of file where error occured : CustomerData1.csv
+Exception:  
+   at CsvHelper.Configuration.ConfigurationFunctions.MissingFieldFound(MissingFieldFoundArgs args)
+   at CsvHelper.CsvReader.GetField(Int32 index)
+   at lambda_method13709(Closure )
+   at CsvHelper.Expressions.RecordCreator.Create[T]()
+   at CsvHelper.CsvReader.GetRecord[T]()
+   at ProgAssign1.FileReader.CsvReadWrite(String path, String outputPath, String logFilePath) in C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\FileReader.cs:line 58
+
+ path of file where error occured : CustomerData5.csv
+Exception:  
+   at CsvHelper.TypeConversion.DefaultTypeConverter.ConvertFromString(String text, IReaderRow row, MemberMapData memberMapData)
+   at CsvHelper.TypeConversion.Int32Converter.ConvertFromString(String text, IReaderRow row, MemberMapData memberMapData)
+   at lambda_method14480(Closure )
+   at CsvHelper.Expressions.RecordCreator.Create[T]()
+   at CsvHelper.CsvReader.GetRecord[T]()
+   at ProgAssign1.FileReader.CsvReadWrite(String path, String outputPath, String logFilePath) in C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\FileReader.cs:line 58

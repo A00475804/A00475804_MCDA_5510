@@ -1,0 +1,17 @@
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\bin\Debug\net6.0\ProgAssign1.exe
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\bin\Debug\net6.0\ProgAssign1.deps.json
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\bin\Debug\net6.0\ProgAssign1.runtimeconfig.json
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\bin\Debug\net6.0\ProgAssign1.dll
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\bin\Debug\net6.0\ProgAssign1.pdb
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.csproj.AssemblyReference.cache
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.AssemblyInfoInputs.cache
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.AssemblyInfo.cs
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.csproj.CoreCompileInputs.cache
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.csproj.CopyComplete
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.dll
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\obj\Debug\net6.0\refint\ProgAssign1.dll
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.pdb
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\obj\Debug\net6.0\ProgAssign1.genruntimeconfig.cache
+C:\Users\mehta\Desktop\smu\programming\ASSIGNMENT\c#\ProgAssign1\ProgAssign1\obj\Debug\net6.0\ref\ProgAssign1.dll

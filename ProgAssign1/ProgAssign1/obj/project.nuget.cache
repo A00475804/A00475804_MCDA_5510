@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7NdLAejMxkG1/+TEHnxAxRCMtbfp8+vK2kJ/2w3rUy/EbiLBqddy8s8JO44uOir6rGeD39kPFq0Dr+pQ6S+nrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mehta\\Desktop\\smu\\programming\\ASSIGNMENT\\c#\\ProgAssign1\\ProgAssign1\\ProgAssign1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehta\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
